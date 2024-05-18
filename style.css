@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 2vw;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    color: #13678A;
+}
+
+.diego {
+    max-width: 100%;
+    width: 30vw;
+    float: right;
+    margin-right: 5vw;
+    border-radius: 2vw;
+    opacity: 0.95;
+   
+}
+
+main {
+    padding: 2vw;
+    
+}
+
+.pagamento {
+    border: 1px solid #ccc;
+    padding: 2vw;
+    margin-bottom: 2vw;
+    margin: 0;
+}
+
+.etapa {
+    margin-bottom: 1vw;
+}
+
+.etapa h3 {
+    font-weight: bold;
+    margin-bottom: 1vw;
+}
+
+button {
+    padding: 1vw 1.5vw;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.observacoes {
+    margin-bottom: 2vw;
+}
+
+.contato {
+    text-align: center;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 1vw;
+    text-align: center;
+}
+
+.logoInfo {
+    width: 5vw;
+  
+}
+
+.qr {
+    max-width: 100%;
+}
+
